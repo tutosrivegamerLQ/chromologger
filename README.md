@@ -31,6 +31,11 @@
 pip install chromologger
 ```
 ---
+Check This:
+
+<a href="https://mintlify.wiki/Dev2Forge/chromologger"><img height="250" alt="image" src="https://github.com/user-attachments/assets/5444894c-35f0-4abe-a9bf-6f257825dfc9" /></a>
+
+---
 
 > ### Visite [chromologger](https://docs.dev2forge.software/chromologger/) para más documentación
 
